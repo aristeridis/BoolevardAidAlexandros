@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adamId</key>
+	<real>1378156383</real>
+	<key>addOnCount</key>
+	<real>0.0</real>
+	<key>bundleId</key>
+	<string>com.AlexandrosA.MyChatApp</string>
+	<key>name</key>
+	<string>BoolevardAid</string>
+	<key>sku</key>
+	<string>10021989</string>
+	<key>type</key>
+	<string>iOS App</string>
+	<key>version</key>
+	<string>1.0</string>
+</dict>
+</plist>

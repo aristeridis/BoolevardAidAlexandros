@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package xmlns="http://apple.com/itunes/importer" version="software5.2">
+    <metadata_token>1525050479133-dc55fe5083aff19eda921722741011d06f4cd451459faad1e7236ca24aac942d</metadata_token>
+    <provider>P26Q93K7C3</provider>
+    <team_id>P26Q93K7C3</team_id>
+    <software>
+        <vendor_id>10021989</vendor_id>
+        <software_metadata>
+            <in_app_purchases>
+                <in_app_purchase>
+                    <locales>
+                        <locale name="en-US"></locale>
+                        <locale name="el"></locale>
+                    </locales>
+                    <review_screenshot>
+                        <file_name>Icon-Spotlight-40_3x.png</file_name>
+                        <size>5647</size>
+                        <checksum type="md5">68816dd807d1852aa655b178d08954fc</checksum>
+                    </review_screenshot>
+                    <products>
+                        <product>
+                            <cleared_for_sale>false</cleared_for_sale>
+                        </product>
+                    </products>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <locales>
+                        <locale name="en-US"></locale>
+                        <locale name="el"></locale>
+                    </locales>
+                    <review_notes>A health chat app,for medical use only</review_notes>
+                    <review_screenshot>
+                        <file_name>Icon-Small_3x.png</file_name>
+                        <size>3202</size>
+                        <checksum type="md5">d9c13243c3e555c9b0c68c1fa75b24b7</checksum>
+                    </review_screenshot>
+                    <product_id>10021989</product_id>
+                    <reference_name>BoolevardAid</reference_name>
+                    <type>non-consumable</type>
+                </in_app_purchase>
+            </in_app_purchases>
+        </software_metadata>
+    </software>
+</package>
